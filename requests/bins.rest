@@ -1,0 +1,83 @@
+POST http://localhost:3002/api/bins
+
+###
+
+POST http://localhost:3001/api/bins/nshv-74b539/requests
+
+###
+
+GET http://localhost:3001/api/bins/nshv-74b539/requests
+
+###
+
+POST https://siliconsatori.net/api/bins/w0r2-2ba500/incoming
+
+###
+
+POST https://siliconsatori.net/api/bins/2san-951903/incoming
+
+
+
+###
+
+GET https://siliconsatori.net/api/bins/
+
+###
+
+POST https://fdurham.com/api/bins/4kba-d9bcbc/incoming
+
+###
+
+PATCH https://fdurham.com/api/bins/vrpr-efe606/incoming
+
+###
+
+http://localhost:3001/api/bins/85c4-431825/incoming
+
+###
+
+GET http://localhost:3001/api/bins/
+
+###
+
+GET http://localhost:3001/api/bins/7toc-1a389a/incoming
+
+###
+
+POST http://localhost:3001/api/bins/u773-703395/requests
+###
+
+GET http://localhost:3001/api/bins/u773-703395/requests
+
+###
+
+POST http://localhost:3001/api/bins/y018-ba5ff3/requests
+
+###
+
+PUT http://localhost:3001/api/bins/y018-ba5ff3/requests
+
+### 
+GET https://7729-64-98-214-35.ngrok-free.app/api/bins
+
+### 
+POST https://7729-64-98-214-35.ngrok-free.app/api/bins
+
+### 
+GET https://7729-64-98-214-35.ngrok-free.app/api/bins/gjft-ba5329
+
+### 
+DELETE https://7729-64-98-214-35.ngrok-free.app/api/bins/gjft-ba5329
+
+###
+GET https://7729-64-98-214-35.ngrok-free.app/api/bins/h5xm-65f1e7/incoming/
+
+###
+PUT https://7729-64-98-214-35.ngrok-free.app/api/bins/h5xm-65f1e7/incoming/
+
+###
+
+GET https://7729-64-98-214-35.ngrok-free.app/api/bins/h5xm-65f1e7/requests/65026412ed9502779715cffd
+
+###
+DELETE https://7729-64-98-214-35.ngrok-free.app/api/bins/h5xm-65f1e7/requests/65026412ed9502779715cffd
